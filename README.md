@@ -554,4 +554,4 @@ The project report references the following official/documentation resources:
 
 This README is based on the project report:
 
-**QR-Based Attendance System — Department of MCA, KLS Gogte Institute of Technology, 2025–2026.**
+**QR-Based Attendance System **
